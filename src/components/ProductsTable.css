@@ -1,0 +1,60 @@
+
+  
+
+
+  .table-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 1rem;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th,
+  td {
+    border: 1px solid #ffffff;
+    text-align: center;
+    padding: 7px;
+    font-size: 15px;
+  }
+  
+  th {
+    background-color: rgb(117, 201, 250);
+  }
+  
+  td {
+    background-color: rgb(205, 235, 253);
+  }
+  .addServiceForm{
+    border-color: aqua;
+   
+  }
+  .addServiceForm form{
+    border-color: crimson;
+  }
+  form button{
+    background-color:skyblue;
+    font:bold pink;
+    padding: 5px;
+    margin:2px solid black;
+  }
+  .addservicebutton{
+    background-color: rgba(142, 168, 207, 0.342);
+    color:black;
+    font-size: 15px;
+    align-items: flex-start;
+    padding: 10px 10px;
+    border-radius: 2px;
+    margin: 5px 0px;
+    cursor: pointer;
+    text-align: center;
+  }
+ 
+  
+  
+
+ 

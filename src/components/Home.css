@@ -1,0 +1,21 @@
+.container{
+    display: grid;
+    text-align: center;
+}
+.top-comp{
+    height: 70vh;
+}
+.bottom-comp{
+  
+    height: 30vh;
+}
+.button_container{
+    background-color: black;
+    color:white;
+    font-size: 25px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 10px 0px;
+    cursor: pointer;
+    text-align: center;
+}
